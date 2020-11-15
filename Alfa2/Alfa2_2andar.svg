@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg10"
+   width="1433.6"
+   height="607.20001"
+   viewBox="0 0 1433.6 607.20001"
+   sodipodi:docname="Alfa2_2andar.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="1.2004744"
+     inkscape:cx="644.42326"
+     inkscape:cy="303.60001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g18" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g18">
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="banheiro_esquerda_2a"
+       cx="101.20999"
+       cy="328.62009"
+       rx="2.9155142"
+       ry="1.2495061" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_aula_202"
+       cx="322.78906"
+       cy="323.20557"
+       rx="2.9155142"
+       ry="1.6660081" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_aula_201"
+       cx="233.65764"
+       cy="368.18781"
+       rx="2.0825102"
+       ry="0.83300406" />
+    <circle
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_aula_204"
+       cx="710.13593"
+       cy="325.28809"
+       r="2.0825102" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_aula_206"
+       cx="835.08655"
+       cy="322.78906"
+       rx="2.9155142"
+       ry="1.2495061" />
+    <circle
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_aula_208"
+       cx="1211.1879"
+       cy="324.03857"
+       r="2.4990122" />
+    <circle
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_aula_205"
+       cx="1106.2294"
+       cy="367.3548"
+       r="1.6660081" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_aula_203"
+       cx="981.69525"
+       cy="367.7713"
+       rx="1.2495061"
+       ry="2.0825102" />
+    <circle
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_apoio_2a"
+       cx="957.53815"
+       cy="366.93829"
+       r="2.0825102" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="banheiro_direita_2a"
+       cx="1335.3055"
+       cy="331.11911"
+       rx="2.4990122"
+       ry="2.9155142" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="Sala_de_estudos_2a"
+       cx="696.80786"
+       cy="367.7713"
+       rx="2.0825102"
+       ry="1.2495061" />
+    <circle
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="escada_direita_2a"
+       cx="872.57178"
+       cy="365.27228"
+       r="2.9155142" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="escada_esquerda_2a"
+       cx="502.71793"
+       cy="361.94028"
+       rx="2.9155142"
+       ry="2.0825102" />
+  </g>
+</svg>

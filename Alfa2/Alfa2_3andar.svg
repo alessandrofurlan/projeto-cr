@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg10"
+   width="1431.2"
+   height="585.59998"
+   viewBox="0 0 1431.2 585.59998"
+   sodipodi:docname="Alfa2_3andar.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="1.0892957"
+     inkscape:cx="1192.5081"
+     inkscape:cy="292.79999"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g18" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g18">
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="banheiros_esquerda_3a"
+       cx="95.015518"
+       cy="322.68555"
+       rx="3.2130852"
+       ry="2.2950609" />
+    <circle
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="escada_esquerda_3a"
+       cx="502.61832"
+       cy="364.91467"
+       r="3.2130852" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="escada_direita_3a"
+       cx="868.91003"
+       cy="363.07861"
+       rx="3.2130852"
+       ry="2.2950609" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_aula_309"
+       cx="981.36804"
+       cy="361.7016"
+       rx="2.7540731"
+       ry="1.8360487" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="banheiros_direita_3a"
+       cx="1335.7255"
+       cy="322.68555"
+       rx="2.7540731"
+       ry="2.2950609" />
+    <path
+       id="sala_de_aula_301"
+       style="fill:#ff0000;fill-rule:evenodd"
+       d="m 233.17818,360.32455 c 0.007,0.97938 -0.76798,1.80376 -1.65912,2.10588 -1.20616,0.44157 -2.7394,0.11019 -3.49248,-0.97647 -0.50822,-0.7038 -0.46025,-1.72583 0.0953,-2.389 1.11438,-1.38968 3.52812,-1.38016 4.62487,0.0263 0.27047,0.35089 0.43306,0.78832 0.43143,1.23329 z" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_aula_302"
+       cx="330.94778"
+       cy="316.2594"
+       rx="3.2130852"
+       ry="1.3770366" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_aula_306"
+       cx="713.76392"
+       cy="317.1774"
+       rx="2.2950609"
+       ry="1.3770366" />
+    <circle
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_aula_307"
+       cx="833.10712"
+       cy="317.1774"
+       r="2.2950609" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_aula_308"
+       cx="1089.2358"
+       cy="319.01346"
+       rx="3.2130852"
+       ry="2.2950609" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="Sala_de_estudos_3a"
+       cx="680.25604"
+       cy="360.32455"
+       rx="3.6720974"
+       ry="2.2950609" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_aula_304"
+       cx="451.20895"
+       cy="318.55444"
+       rx="3.2130852"
+       ry="1.8360487" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_aula_305"
+       cx="585.69952"
+       cy="317.1774"
+       rx="1.8360487"
+       ry="1.3770366" />
+  </g>
+</svg>

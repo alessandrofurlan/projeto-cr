@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg22"
+   width="1433.6"
+   height="628"
+   viewBox="0 0 1433.6 628"
+   sodipodi:docname="Alfa2_terreo.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs26" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview24"
+     showgrid="false"
+     inkscape:zoom="1.0839844"
+     inkscape:cx="517.66074"
+     inkscape:cy="406.71351"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g30" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g30">
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="Banheiro_esquerda"
+       cx="162.82523"
+       cy="371.31531"
+       rx="1.3837838"
+       ry="2.3063064" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_uso_geral_1"
+       cx="328.418"
+       cy="367.16397"
+       rx="2.7675676"
+       ry="1.845045" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_uso_geral_2"
+       cx="329.80179"
+       cy="304.43243"
+       rx="1.3837838"
+       ry="2.7675676" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="copa"
+       cx="389.3045"
+       cy="303.97116"
+       rx="1.845045"
+       ry="1.3837838" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="almoxarifado_"
+       cx="377.31171"
+       cy="360.7063"
+       rx="1.845045"
+       ry="0.92252249" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="cantina_alfa_2"
+       cx="502.31351"
+       cy="261.9964"
+       rx="2.3063064"
+       ry="0.92252249" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="escadas_esquerda"
+       cx="572.88647"
+       cy="407.75494"
+       rx="2.7675676"
+       ry="0.92252249" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="entrada_alfa2_2"
+       cx="801.21082"
+       cy="256"
+       rx="2.3063064"
+       ry="1.3837838" />
+    <circle
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="entrada_alfa2_1"
+       cx="550.74591"
+       cy="255.53873"
+       r="1.845045" />
+    <circle
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="lab_informatica_3"
+       cx="1169.7585"
+       cy="367.16397"
+       r="1.845045" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="lab_informatica2"
+       cx="1168.3748"
+       cy="408.67746"
+       rx="2.3063064"
+       ry="0.92252249" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="banheiros_direita"
+       cx="1299.8342"
+       cy="372.6991"
+       rx="2.7675676"
+       ry="1.845045" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_estudos_0"
+       cx="855.17834"
+       cy="367.16397"
+       rx="2.7675676"
+       ry="1.845045" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="lab_informatica_1"
+       cx="479.7117"
+       cy="407.2937"
+       rx="2.7675676"
+       ry="1.3837838" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="entrada_alfa2_3"
+       cx="705.26843"
+       cy="451.57477"
+       rx="3.2288287"
+       ry="1.3837838" />
+    <circle
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="bedelaria"
+       cx="445.57837"
+       cy="371.77658"
+       r="1.845045" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="escada_direita"
+       cx="828.42523"
+       cy="403.60361"
+       rx="4.6126127"
+       ry="3.2288287" />
+  </g>
+</svg>
