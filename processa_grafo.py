@@ -11,4 +11,4 @@ nodes = nodes[['Id','Label']]
 
 depara_temp = nodes.to_dict()
 string_to_index = {y:x for x,y in depara_temp["Label"].items()}
-index_to_string = {x:y for x,y in depara_temp["Label"].items()}
+index_to_string = depara_temp["Label"]

@@ -27,6 +27,7 @@ Id,Label,timeset,transferencia
 25,sbc_transferencia_13,,true
 26,sbc_transferencia_14,,true
 27,sbc_alfa2_entrada_sul,,
+28,sala_de_estudos_alfa1_3,,
 29,lab_informatica_3_alfa2,,
 30,bedelaria_alfa2,,
 31,banheiro_alfa2_esquerda_terreo,,
@@ -36,10 +37,12 @@ Id,Label,timeset,transferencia
 35,almoxarifado_alfa2,,
 36,cantina_alfa2,,
 37,escada_alfa2_esquerda_terreo,,true
+38,laboratorio_alfa1_302,,
 39,lab_informatica_2_alfa2,,
 40,banheiros_alfa2_direita_terreo,,
 41,sala_de_estudos_alfa2_1a,,
 42,lab_informatica_1_alfa2,,
+43,laboratorio_alfa1_303,,
 44,escada_alfa2_direita_terreo,,true
 45,sala_de_aula_alfa2_106,,
 46,sala_de_apoio_alfa2_1a,,
@@ -87,8 +90,8 @@ Id,Label,timeset,transferencia
 88,secretaria_academica,,
 89,banheiro_alfa1_direita_terreo,,
 90,refeitorio_alfa1,,
-91,entrada_alfa1_1,,
-92,entrada_alfa1_3,,
+91,banheiro_alfa1_direito_3,,
+92,sala_de_apoio_alfa1_3,,
 93,laboratorio_alfa1_101,,
 94,sala_de_aula_alfa1_102,,
 95,escada_alfa1_esquerda_1a,,
@@ -121,9 +124,3 @@ Id,Label,timeset,transferencia
 122,escada_alfa1_direita_3a,,
 123,laboratorio_alfa1_306,,
 124,laboratorio_alfa1_304,,
-125,laboratorio_alfa1_303,,
-126,laboratorio_alfa1_302,,
-127,banheiro_alfa1_direito_3,,
-128,sala_de_apoio_alfa1_3,,
-129,sala_de_estudos_alfa1_3,,
-
