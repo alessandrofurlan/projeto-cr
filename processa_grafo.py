@@ -1,7 +1,6 @@
 import networkx as nx
 import pandas as pd
 df = pd.read_csv('edges_completo.csv')
-
 lista_edges = ["{{source}} {{target}} {'weight': {{weight}}}".replace("{{source}}", str(v[0])).replace("{{target}}", str(v[1])).replace("{{weight}}", str(v[6])) for v in df.values.tolist()]
 
 G = nx.parse_edgelist(lista_edges, nodetype=int)
