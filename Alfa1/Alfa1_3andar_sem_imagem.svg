@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg10"
+   width="1442.4"
+   height="616.79999"
+   viewBox="0 0 1442.4 616.79999"
+   sodipodi:docname="Alfa1_3andar_sem_imagem.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="1.1931503"
+     inkscape:cx="1012.484"
+     inkscape:cy="306.72376"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g18" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g18">
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="banheiro_alfa1_esquerdo_3"
+       cx="33.524696"
+       cy="312.19873"
+       rx="2.5143521"
+       ry="2.0952935" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="laboratorio_alfa1_301"
+       cx="410.67752"
+       cy="308.84625"
+       rx="1.6762347"
+       ry="2.0952935" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="laboratorio_alfa1_305"
+       cx="412.35376"
+       cy="359.55237"
+       rx="2.5143521"
+       ry="1.6762347" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="escada_alfa1_3"
+       cx="447.55469"
+       cy="358.71423"
+       rx="2.5143521"
+       ry="1.6762347" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="path34"
+       cx="905.58588"
+       cy="359.1333"
+       rx="2.0952935"
+       ry="3.7715282" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="laboratorio_alfa1_306"
+       cx="1201.8604"
+       cy="374.63846"
+       rx="2.5143521"
+       ry="1.6762347" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="laboratorio_alfa1_304"
+       cx="1022.5032"
+       cy="309.26532"
+       rx="3.3524694"
+       ry="2.5143521" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="laboratorio_alfa1_303"
+       cx="947.4917"
+       cy="309.26532"
+       rx="3.7715282"
+       ry="3.3524694" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="laboratorio_alfa1_302"
+       cx="452.5834"
+       cy="310.94156"
+       rx="4.190587"
+       ry="2.5143521" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="banheiro_alfa1_direito_3"
+       cx="1385.8271"
+       cy="312.19873"
+       rx="2.9334109"
+       ry="3.7715282" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_apoio_alfa1_3"
+       cx="977.24487"
+       cy="358.2952"
+       rx="3.3524694"
+       ry="2.0952935" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_estudos_alfa1_3"
+       cx="683.48474"
+       cy="357.87613"
+       rx="3.7715282"
+       ry="1.6762347" />
+  </g>
+</svg>
