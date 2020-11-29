@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg10"
+   width="1440.8"
+   height="680.79999"
+   viewBox="0 0 1440.8 680.79999"
+   sodipodi:docname="Alfa1_1andar_sem_imagem.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="0.95780119"
+     inkscape:cx="668.21494"
+     inkscape:cy="338.31188"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g18" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g18">
+    <circle
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="laboratorio_alfa1_101"
+       cx="413.44696"
+       cy="383.16928"
+       r="2.0881159" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="escada_alfa1_esquerda_1a"
+       cx="450.51105"
+       cy="371.68466"
+       rx="2.6101451"
+       ry="1.044058" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="escada_alfa1_direita_1a"
+       cx="907.80841"
+       cy="373.25073"
+       rx="3.6542029"
+       ry="2.6101451" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_aula_alfa1_101"
+       cx="285.02783"
+       cy="334.62061"
+       rx="1.044058"
+       ry="3.6542029" />
+    <circle
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_aula_alfa1_102"
+       cx="427.01971"
+       cy="332.01044"
+       r="2.0881159" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_aula_alfa1_103"
+       cx="564.83539"
+       cy="333.0545"
+       rx="5.2202902"
+       ry="1.044058" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_estudos_alfa1_101"
+       cx="704.73914"
+       cy="332.01044"
+       rx="2.0881159"
+       ry="1.044058" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_aula_alfa1_104"
+       cx="977.23828"
+       cy="334.09857"
+       rx="4.1762319"
+       ry="1.044058" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_aula_alfa1_105"
+       cx="1115.5759"
+       cy="334.62061"
+       rx="2.6101451"
+       ry="1.566087" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="sala_de_aula_alfa1_106"
+       cx="1252.3475"
+       cy="337.23074"
+       rx="2.6101451"
+       ry="2.0881159" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="banheiro_alfa1_direita_1a"
+       cx="1388.5972"
+       cy="338.79681"
+       rx="3.132174"
+       ry="2.6101451" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="laboratorio_alfa1_102"
+       cx="1250.2595"
+       cy="382.12524"
+       rx="3.6542029"
+       ry="2.0881159" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd"
+       id="banheiro_alfa1_esquerda_1a"
+       cx="31.843769"
+       cy="333.57654"
+       rx="3.6542029"
+       ry="1.566087" />
+  </g>
+</svg>
