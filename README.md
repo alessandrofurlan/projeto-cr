@@ -24,7 +24,7 @@ Com esses pontos, foi definido as arestas e suas distâncias, as quais foram cal
 O algoritmo de um GPS se baseia, essencialmente, em duas funções, que foram o objetivo desse projeto: a função de caminho mais curto (<em>shortest path</em>) e a de distância de um caminho.
 A partir dos gráfos, foi feito um algoritmo capaz de realizar essas duas funções entre dois vértices levando em consideração a distância de cada aresta.
 
-## Discussão sobre os Gráfos
+## Discussão dos Grafos
 
 O gráfo do campus obtido a partir da biblioteca <em>iGraph</em> foi o seguinte:
 
