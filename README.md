@@ -10,7 +10,7 @@ O WFABCaze foi o projeto final da disciplina de Comunicação de Redes do segund
 A modelagem do campus foi feita, primeiramente, pela definição de pontos de interesse no mapa e nas plantas base do campus.
 
 <p align="center">
-  <img src=https://github.com/alessandrofurlan/projeto-cr/blob/master/images/vertices_sbc.png height="477" width="614">
+  <img src=https://github.com/alessandrofurlan/projeto-cr/blob/master/images/vertices_sbc.png>
 </p>
 <p align="center">
   <i> Pontos de interesse da parte de transferência do campus de SBC </i>
@@ -29,7 +29,7 @@ A partir dos gráfos, foi feito um algoritmo capaz de realizar essas duas funç�
 O gráfo do campus obtido a partir da biblioteca <em>iGraph</em> foi o seguinte:
 
 <p align="center">
-  <img src=https://github.com/alessandrofurlan/projeto-cr/blob/master/images/grafo_igraph.png height="477" width="614">
+  <img src=https://github.com/alessandrofurlan/projeto-cr/blob/master/images/grafo_igraph.png>
 </p>
 <p align="center">
   <i> Gráfo do campus de SBC </i>
@@ -38,7 +38,7 @@ O gráfo do campus obtido a partir da biblioteca <em>iGraph</em> foi o seguinte:
 E sua distribuição de comunidades, pela mesma biblioteca foi:
 
 <p align="center">
-  <img src=https://github.com/alessandrofurlan/projeto-cr/blob/master/images/comunidades_igraph_com_labels.png height="477" width="614">
+  <img src=https://github.com/alessandrofurlan/projeto-cr/blob/master/images/comunidades_igraph_com_labels.png>
 </p>
 <p align="center">
   <i> Pontos de interesse da parte exterior do campus de SBC </i>
